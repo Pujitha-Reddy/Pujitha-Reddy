@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Pujitha Malladi</h1>
+<h1 align="center">Hi 👋 I'm Pujitha </h1>
 <h3 align="center">Cloud Engineer | DevOps | Kubernetes | Multi-Cloud Architecture</h3>
 
 <p align="center">
